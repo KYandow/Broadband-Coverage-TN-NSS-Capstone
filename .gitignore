@@ -135,7 +135,8 @@ dmypy.json
 #credentials
 notebooks-ky/credentials.py
 
-#big files
-data/UrbanAreaShape2018/*
+#big files and misc. output files
+data/UrbanAreaShape/*
 data/FCC_Broadband/*
 data/shapefiles/*
+out/archived_output/*
