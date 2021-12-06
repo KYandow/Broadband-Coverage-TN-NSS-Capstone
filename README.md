@@ -1,4 +1,4 @@
-# [Broadband Access: Growing with the people of Tennessee 2015-2019](https://public.tableau.com/profile/kyle.y7260#!/vizhome/BroadbandAccess-GrowingwiththepeopleofTennessee2015-19/Story1?publish=yes)
+# [Broadband Access: Growing with the people of Tennessee 2015-2019](https://public.tableau.com/shared/N2MGNYK5B?:display_count=n&:origin=viz_share_link)
 
 ## This project uses [FCC Deployment data](https://www.fcc.gov/general/broadband-deployment-data-fcc-form-477) to track how broadband access has changed in Tennessee over the last few years, including a look at what types of providers and technologies are allowing Tennesseans a choice of quality service.
 
